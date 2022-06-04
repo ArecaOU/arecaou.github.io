@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![](/img/palm_trees.jpg)
+![](/img/E4FF5459-8BE9-4AFA-8F73-8BD5FB6302D6.jpeg)
 
