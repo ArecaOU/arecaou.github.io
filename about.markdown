@@ -11,7 +11,6 @@ Areca OÜ\
 Sepapaja tn. 6\
 Tallinn\
 15551\
-Estonia\
-
+Estonia
 
 
