@@ -4,4 +4,6 @@
 
 layout: home
 ---
-.
+
+![](/img/palm_trees.jpg)
+
