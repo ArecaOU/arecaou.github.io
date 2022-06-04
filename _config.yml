@@ -20,7 +20,8 @@
 
 title: Areca OÜ
 email: hi@areca.cx
-#description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+  Areca provides grants management solutions to small and medium sized foundations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.areca.cx" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -28,6 +29,7 @@ github_username:  ArecaOU
 
 # Build settings
 theme: minima
+markdown: GFM
 plugins:
 #  - jekyll-feed
 
